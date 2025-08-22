@@ -81,7 +81,9 @@
               "content": [
                 {
                   "direction": "row",
-                  "style": false,
+                  "style": {
+                    "heigh": "10vh"
+                  },
                   "content": [
                     {
                       "section": "Attack Zone",
@@ -108,7 +110,9 @@
                 },
                 {
                   "direction": "row",
-                  "style": false,
+                  "style": {
+                    "heigh": "10vh"
+                  },
                   "content": [
                     {
                       "section": "Attack Zone",
@@ -127,7 +131,9 @@
                 },
                 {
                   "direction": "row",
-                  "style": false,
+                  "style": {
+                    "heigh": "10vh"
+                  },
                   "content": [
                     {
                       "section": "Set Zone",
@@ -193,7 +199,7 @@
             "displayedTitle": "Damage Zone",
             "noQuickActions": true,
             "enterTapped": false,
-            "enterSpun": true,
+            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": true
@@ -201,7 +207,7 @@
           "Ruler": {
             "title": "Ruler",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -217,7 +223,7 @@
           "Attack Zone": {
             "title": "Attack Zone",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -233,7 +239,7 @@
           "Defense Zone": {
             "title": "Defense Zone",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -265,7 +271,7 @@
           "Field Zone": {
             "title": "Field Zone",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
