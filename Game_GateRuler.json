@@ -1,15 +1,17 @@
 {
   "name": "Gate Ruler",
-  "menuBackgroundImage": "https://orenji-reiji.github.io/tcgarena-gateruler/magvarius-dragon-lord-of-inferno-full-art.png",
+  "menuBackgroundImage": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/magvarius-dragon-lord-of-inferno-full-art.png?raw=true",
   "defaultRessources": {
-    "backgrounds": [],
+    "backgrounds": [
+      "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/field.png?raw=true"
+    ],
     "decksUrl": ""
   },
   "customHelp": "",
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://orenji-reiji.github.io/tcgarena-gateruler/cards.json",
-    "cardBack": "https://orenji-reiji.github.io/tcgarena-gateruler/gr-card-back.озп"
+    "cardBack": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/gr-card-back.jpg?raw=true"
   },
   "deckBuilding": {
     "mainFilters": [
@@ -51,7 +53,12 @@
       "sections": {
         "customSections": [
           "Ruler",
-          "Resources"
+          "Resources",
+          "Attack Zone",
+          "Defense Zone",
+          "Trigger Zone",
+          "Field Zone",
+          "Damage Zone"
         ],
         "layout": {
           "direction": "row",
@@ -169,7 +176,8 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Ruler"
+          "Ruler",
+          "Resources"
         ],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
@@ -177,12 +185,12 @@
           "Damage Zone": {
             "title": "Damage Zone",
             "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "START",
+            "height": "SMALL",
+            "alignment": "END",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "",
+            "displayedTitle": "Damage Zone",
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": true,
@@ -198,7 +206,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "Ruler Zone",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -214,7 +222,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "Attack Zone",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -223,14 +231,14 @@
             "showHiddenCardInHistory": false
           },
           "Defense Zone": {
-            "title": "",
+            "title": "Defense Zone",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "Defense Zone",
             "noQuickActions": false,
             "enterTapped": true,
             "enterSpun": false,
@@ -240,13 +248,13 @@
           },
           "Set Zone": {
             "title": "Set Zone",
-            "isHidden": "opponent-only",
-            "height": "MEDIUM",
+            "isHidden": "yes",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "Set Zone",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": true,
@@ -258,11 +266,11 @@
             "title": "Field Zone",
             "isHidden": "no",
             "height": "MEDIUM",
-            "alignment": "END",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "Field Zone",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -273,8 +281,24 @@
           "Trigger Zone": {
             "title": "Trigger Zone",
             "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "END",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": true,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Resources": {
+            "title": "Resources",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
@@ -283,7 +307,7 @@
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
+            "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           }
         }
