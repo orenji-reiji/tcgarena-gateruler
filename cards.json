@@ -1,0 +1,509 @@
+{
+  "2020GB01-L1a": {
+    "id": "2020GB01-L1a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "1. A - Apprentice",
+        "type": "Ruler",
+        "cost": "",
+        "image": "https://i.ibb.co/SDCJwXd0/1-a-apprentice.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "1. A - Apprentice",
+    "type": "Ruler",
+    "cost": "",
+    "Attributes": [
+      ""
+    ],
+    "Life": "12",
+    "ATK": "4",
+    "STK": "3"
+  },
+  "2020GS01-010": {
+    "id": "2020GS01-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Galactic Swordmaster Goldizer",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://i.ibb.co/M59dxm9T/galactic-swordmaster-goldizer.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Galactic Swordmaster Goldizer",
+    "type": "Unit",
+    "cost": "3",
+    "Attributes": [
+      "Cosmic Relic",
+      "Military",
+      "Robotic"
+    ],
+    "Faction": "Wonderverse",
+    "ATK": "6",
+    "HP": "6",
+    "STK": "4"
+  },
+  "2020GS01-015": {
+    "id": "2020GS01-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Emergency Fusion NOW!!!",
+        "type": "Event",
+        "cost": "2",
+        "image": "https://i.ibb.co/DFF5jLp/emergency-fusion-now.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Emergency Fusion NOW!!!",
+    "type": "Event",
+    "cost": "2",
+    "Attributes": [
+      "Cosmic Relic",
+      "Technology"
+    ],
+    "Faction": "Wonderverse",
+    "Icons": [
+      "CNT"
+    ]
+  },
+  "2020GS01-001": {
+    "id": "2020GS01-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sky Trooper Type 0 \"Sourai\"",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://i.ibb.co/ZpBLz5fb/sky-trooper-type-0-sourai.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sky Trooper Type 0 \"Sourai\"",
+    "type": "Unit",
+    "cost": "2",
+    "Faction": "Yomajin Front",
+    "Attributes": [
+      "Military",
+      "Robotic"
+    ],
+    "Life": "",
+    "ATK": "4",
+    "HP": "4",
+    "STK": "2",
+    "Icons": false,
+    "Keywords": [
+      "Defender"
+    ],
+    "Legend": false
+  },
+  "2020GS01-011": {
+    "id": "2020GS01-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Space Ninja Silverfang",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://i.ibb.co/NnrFzQSD/space-ninja-silverfang.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Space Ninja Silverfang",
+    "type": "Unit",
+    "cost": "2",
+    "Faction": "Wonderverse",
+    "Attributes": [
+      "Crimenauts",
+      "Ninja",
+      "Robotic"
+    ],
+    "Life": "",
+    "ATK": "5",
+    "HP": "5",
+    "STK": "2",
+    "Icons": [
+      "OD"
+    ],
+    "Keywords": false,
+    "Legend": true
+  },
+  "2020GS01-012": {
+    "id": "2020GS01-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Heddie Headhunter, Syndicate Recruiter",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://i.ibb.co/8gnNsDG2/heddie-headhunter-syndicate-recruiter.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Heddie Headhunter, Syndicate Recruiter",
+    "type": "Unit",
+    "cost": "2",
+    "Faction": "Wonderverse",
+    "Attributes": [
+      "Crimenauts",
+      "Space Peeps"
+    ],
+    "Life": "",
+    "ATK": "2",
+    "HP": "1",
+    "STK": "1",
+    "Icons": [
+      "CNT",
+      "OD"
+    ],
+    "Keywords": false,
+    "Legend": false
+  },
+  "2020GS01-013": {
+    "id": "2020GS01-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Milky Way Patrol",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://i.ibb.co/6Rj8dDYq/milky-way-patrol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Milky Way Patrol",
+    "type": "Unit",
+    "cost": 0,
+    "Faction": "Wonderverse",
+    "Attributes": [
+      "Future Folk",
+      "Military"
+    ],
+    "Life": "",
+    "ATK": "2",
+    "HP": "2",
+    "STK": "1",
+    "Icons": [
+      "CNT"
+    ],
+    "Keywords": false,
+    "Legend": false
+  },
+  "2020GS01-014": {
+    "id": "2020GS01-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Space Dullahan",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://i.ibb.co/PvFxyFSR/space-dullahan.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Space Dullahan",
+    "type": "Unit",
+    "cost": 0,
+    "Faction": "Wonderverse",
+    "Attributes": [
+      "Supernatural",
+      "Warrior",
+      "Space Peeps"
+    ],
+    "Life": "",
+    "ATK": "4",
+    "HP": "2",
+    "STK": "1",
+    "Icons": false,
+    "Keywords": false,
+    "Legend": false
+  },
+  "2020GS01-016": {
+    "id": "2020GS01-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blaster Cannon",
+        "type": "Event",
+        "cost": "1",
+        "image": "https://i.ibb.co/XZjhpHTc/blaster-cannon.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Blaster Cannon",
+    "type": "Event",
+    "cost": "1",
+    "Faction": "Wonderverse",
+    "Attributes": [
+      "Military"
+    ],
+    "Life": "",
+    "ATK": "",
+    "HP": "",
+    "STK": "",
+    "Icons": [
+      "CNT"
+    ],
+    "Keywords": false,
+    "Legend": false
+  },
+  "2020GS01-017": {
+    "id": "2020GS01-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jaunting",
+        "type": "Event",
+        "cost": "1",
+        "image": "https://i.ibb.co/tMB6bdY2/jaunting.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Jaunting",
+    "type": "Event",
+    "cost": "1",
+    "Faction": "Wonderverse",
+    "Attributes": [
+      "Technology"
+    ],
+    "Life": "",
+    "ATK": "",
+    "HP": "",
+    "STK": "",
+    "Icons": [
+      "CNT"
+    ],
+    "Keywords": false,
+    "Legend": false
+  },
+  "2020GS01-002": {
+    "id": "2020GS01-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Exo-Armor Trooper Masuraoh-01",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://i.ibb.co/5xXvj4Zt/exo-armor-trooper-masuraoh-01.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Exo-Armor Trooper Masuraoh-01",
+    "type": "Unit",
+    "cost": "2",
+    "Faction": "Yomajin Front",
+    "Attributes": [
+      "Military",
+      "Robotic"
+    ],
+    "Life": "",
+    "ATK": "3",
+    "HP": "4",
+    "STK": "1",
+    "Icons": [
+      "OD"
+    ],
+    "Keywords": false,
+    "Legend": false
+  },
+  "2020GS01-003": {
+    "id": "2020GS01-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Exo-Armor Trooper \"Sakimori\"",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://i.ibb.co/Wv9qKrc5/exo-armor-trooper-sakimori.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Exo-Armor Trooper \"Sakimori\"",
+    "type": "Unit",
+    "cost": "1",
+    "Faction": "Yomajin Front",
+    "Attributes": [
+      "Military",
+      "Robotic"
+    ],
+    "Life": "",
+    "ATK": "3",
+    "HP": "4",
+    "STK": "2",
+    "Icons": false,
+    "Keywords": false,
+    "Legend": false
+  },
+  "2020GS01-004": {
+    "id": "2020GS01-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Joe of the Kamaitachi",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://i.ibb.co/RkjZbn5s/joe-of-the-kamaitachi.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Joe of the Kamaitachi",
+    "type": "Unit",
+    "cost": 0,
+    "Faction": "Yomajin Front",
+    "Attributes": [
+      "Supernatural",
+      "Beast"
+    ],
+    "Life": "",
+    "ATK": "5",
+    "HP": "2",
+    "STK": "1",
+    "Icons": false,
+    "Keywords": false,
+    "Legend": false
+  },
+  "2020GS01-005": {
+    "id": "2020GS01-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hardsuit Assault Team \"Jinrai\"",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://i.ibb.co/h1RCWTDb/hardsuit-assault-team-jinrai.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hardsuit Assault Team \"Jinrai\"",
+    "type": "Unit",
+    "cost": 0,
+    "Faction": "Yomajin Front",
+    "Attributes": [
+      "Warrior",
+      "Military"
+    ],
+    "Life": "",
+    "ATK": "2",
+    "HP": "2",
+    "STK": "2",
+    "Icons": false,
+    "Keywords": false,
+    "Legend": false
+  },
+  "2020GS01-006": {
+    "id": "2020GS01-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Combat Engineer Unit \"Inagi\"",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://i.ibb.co/bgmyyzLw/combat-engineer-unit-inagi.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Combat Engineer Unit \"Inagi\"",
+    "type": "Unit",
+    "cost": 0,
+    "Faction": "Yomajin Front",
+    "Attributes": [
+      "Military"
+    ],
+    "Life": "",
+    "ATK": "2",
+    "HP": "2",
+    "STK": "1",
+    "Icons": false,
+    "Keywords": false,
+    "Legend": false
+  },
+  "2020GS01-007": {
+    "id": "2020GS01-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yobuko of the Midnight Watch",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://i.ibb.co/FbFxzBMV/yobuko-of-the-midnight-watch.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yobuko of the Midnight Watch",
+    "type": "Unit",
+    "cost": 0,
+    "Faction": "Yomajin Front",
+    "Attributes": [
+      "Supernatural",
+      "Military"
+    ],
+    "Life": "",
+    "ATK": "2",
+    "HP": "2",
+    "STK": "1",
+    "Icons": [
+      "OD"
+    ],
+    "Keywords": false,
+    "Legend": false
+  },
+  "2020GS01-008": {
+    "id": "2020GS01-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Split-Second Counter Strike",
+        "type": "Event",
+        "cost": 0,
+        "image": "https://i.ibb.co/V0L42QBZ/split-second-counter-strike.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Split-Second Counter Strike",
+    "type": "Event",
+    "cost": 0,
+    "Faction": "Yomajin Front",
+    "Attributes": [
+      "Sword Technique"
+    ],
+    "Life": "",
+    "ATK": "",
+    "HP": "",
+    "STK": "",
+    "Icons": false,
+    "Keywords": false,
+    "Legend": false,
+    "Errata": "■ Choose 1 allied unit. Until the end of this combat, it gains Intercept."
+  },
+  "2020GS01-009": {
+    "id": "2020GS01-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Desperate Resistance",
+        "type": "Event",
+        "cost": 0,
+        "image": "https://i.ibb.co/93qyC9V3/desperate-resistance.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Desperate Resistance",
+    "type": "Event",
+    "cost": 0,
+    "Faction": "Yomajin Front",
+    "Attributes": [
+      "Tactics"
+    ],
+    "Life": "",
+    "ATK": "",
+    "HP": "",
+    "STK": "",
+    "Icons": false,
+    "Keywords": false,
+    "Legend": false,
+    "Errata": ""
+  }
+}
