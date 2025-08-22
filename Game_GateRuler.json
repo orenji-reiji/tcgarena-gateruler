@@ -1,17 +1,17 @@
 {
   "name": "Gate Ruler",
-  "menuBackgroundImage": "https://github.com/orenji-reiji/tcg-arena-gateruler/blob/main/game-image.png?raw=true",
+  "menuBackgroundImage": "https://orenji-reiji.github.io/tcgarena-gateruler/magvarius-dragon-lord-of-inferno-full-art.png",
   "defaultRessources": {
     "backgrounds": [
-      "https://github.com/orenji-reiji/tcg-arena-gateruler/blob/main/field%20set%206.png?raw=true"
+      "https://orenji-reiji.github.io/tcgarena-gateruler/field.png"
     ],
     "decksUrl": ""
   },
   "customHelp": "",
   "cardRotation": "90",
   "cards": {
-    "dataUrl": "https://github.com/orenji-reiji/tcg-arena-gateruler/blob/main/cards.json",
-    "cardBack": "https://github.com/orenji-reiji/tcg-arena-gateruler/blob/main/gr%20card%20back.png?raw=true"
+    "dataUrl": "https://orenji-reiji.github.io/tcgarena-gateruler/cards.json",
+    "cardBack": "https://orenji-reiji.github.io/tcgarena-gateruler/gr-card-back.png"
   },
   "deckBuilding": {
     "mainFilters": [
