@@ -15,16 +15,18 @@
   },
   "deckBuilding": {
     "mainFilters": [
-      "Card Name",
-      "Type",
-      "Level"
+      "name",
+      "Faction",
+      "type",
+      "cost"
     ],
     "formats": [
       {
         "title": "Classic",
         "gameplay": "Classic",
         "customCategories": [
-          "Ruler"
+          "Ruler",
+          "Resource"
         ]
       }
     ]
@@ -53,7 +55,7 @@
       "sections": {
         "customSections": [
           "Ruler",
-          "Resources",
+          "Resource",
           "Defense Zone",
           "Trigger Zone",
           "Field Zone",
@@ -196,7 +198,7 @@
                   "style": false
                 },
                 {
-                  "section": "Resources",
+                  "section": "Resource",
                   "style": false
                 }
               ],
@@ -206,7 +208,7 @@
         },
         "categoriesAlreadyOnBoard": [
           "Ruler",
-          "Resources"
+          "Resource"
         ],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
@@ -395,22 +397,6 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Resources": {
-            "title": "Resources",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "END",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Resources",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": true,
-            "showHiddenCardInHistory": false
-          },
           "Set Zone C": {
             "title": "Set Zone C",
             "isHidden": "yes",
@@ -585,6 +571,22 @@
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Resource": {
+            "title": "Resource",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "END",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Resources",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           }
         }
