@@ -69,7 +69,8 @@
           "Attack Zone TR2",
           "Attack Zone CL",
           "Attack Zone CR",
-          "Damage Zone 2"
+          "Damage Zone 2",
+          "Damage Zone 3"
         ],
         "layout": {
           "direction": "row",
@@ -85,6 +86,10 @@
                 },
                 {
                   "section": "Damage Zone 2",
+                  "style": false
+                },
+                {
+                  "section": "Damage Zone 3",
                   "style": false
                 }
               ],
@@ -406,7 +411,7 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "Set Zone",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": true,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -422,7 +427,7 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "Set Zone",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": true,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -438,7 +443,7 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "Set Zone",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": true,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -550,7 +555,7 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "Damage 1-5",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": true,
             "isGroupForbidden": false,
@@ -561,14 +566,14 @@
             "title": "Damage Zone 2",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "CENTER",
+            "alignment": "END",
             "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Damage 6+",
-            "noQuickActions": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Damage 6-10",
+            "noQuickActions": true,
             "enterTapped": false,
-            "enterSpun": false,
+            "enterSpun": true,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
@@ -577,16 +582,32 @@
             "title": "Resource",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "END",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "Resources",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": false,
-            "enterSpun": false,
+            "enterSpun": true,
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Damage Zone 3": {
+            "title": "Damage Zone 3",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "END",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Damage 11+",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": true,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           }
         }
