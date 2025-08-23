@@ -75,7 +75,7 @@
             {
               "direction": "column",
               "style": {
-                "justifyContent": "start"
+                "justifyContent": "end"
               },
               "content": [
                 {
@@ -84,9 +84,7 @@
                 },
                 {
                   "section": "Resources",
-                  "style": {
-                    "width": "15vh"
-                  }
+                  "style": false
                 }
               ],
               "isSymetricalForOpponents": true
@@ -98,38 +96,37 @@
                 {
                   "direction": "row",
                   "style": {
-                    "height": "10vh",
-                    "align": "center"
+                    "height": "15vh"
                   },
                   "content": [
                     {
                       "section": "Attack Zone TL2",
                       "style": {
-                        "width": "10vh"
+                        "width": "15vh"
                       }
                     },
                     {
                       "section": "Attack Zone TL",
                       "style": {
-                        "width": "10vh"
+                        "width": "15vh"
                       }
                     },
                     {
                       "section": "Defense Zone",
                       "style": {
-                        "width": "10vh"
+                        "width": "15vh"
                       }
                     },
                     {
                       "section": "Attack Zone TR",
                       "style": {
-                        "width": "10vh"
+                        "width": "15vh"
                       }
                     },
                     {
                       "section": "Attack Zone TR2",
                       "style": {
-                        "width": "10vh"
+                        "width": "15vh"
                       }
                     }
                   ],
@@ -138,7 +135,7 @@
                 {
                   "direction": "row",
                   "style": {
-                    "height": "10vh"
+                    "height": "15vh"
                   },
                   "content": [
                     {
@@ -165,25 +162,25 @@
                 {
                   "direction": "row",
                   "style": {
-                    "height": "10vh"
+                    "height": "15vh"
                   },
                   "content": [
                     {
                       "section": "Set Zone L",
                       "style": {
-                        "width": "10vh"
+                        "width": "15vh"
                       }
                     },
                     {
                       "section": "Set Zone C",
                       "style": {
-                        "width": "10vh"
+                        "width": "15vh"
                       }
                     },
                     {
                       "section": "Set Zone R",
                       "style": {
-                        "width": "10vh"
+                        "width": "15vh"
                       }
                     }
                   ],
@@ -271,7 +268,7 @@
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "START",
-            "opponentAlignment": false,
+            "opponentAlignment": "CENTER",
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "Field Zone",
@@ -286,7 +283,7 @@
             "title": "Trigger Zone",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "START",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
