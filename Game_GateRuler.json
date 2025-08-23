@@ -97,28 +97,39 @@
                 {
                   "direction": "row",
                   "style": {
-                    "height": "8vh"
+                    "height": "8vh",
+                    "align": "center"
                   },
                   "content": [
                     {
                       "section": "Attack Zone TL2",
-                      "style": false
+                      "style": {
+                        "width": "15vh"
+                      }
                     },
                     {
                       "section": "Attack Zone TL",
-                      "style": false
+                      "style": {
+                        "width": "15vh"
+                      }
                     },
                     {
                       "section": "Defense Zone",
-                      "style": false
+                      "style": {
+                        "width": "15vh"
+                      }
                     },
                     {
                       "section": "Attack Zone TR",
-                      "style": false
+                      "style": {
+                        "width": "15vh"
+                      }
                     },
                     {
                       "section": "Attack Zone TR2",
-                      "style": false
+                      "style": {
+                        "width": "15vh"
+                      }
                     }
                   ],
                   "isSymetricalForOpponents": false
@@ -126,20 +137,27 @@
                 {
                   "direction": "row",
                   "style": {
-                    "height": "8vh"
+                    "height": "8vh",
+                    "align": "center"
                   },
                   "content": [
                     {
                       "section": "Attack Zone CL",
-                      "style": false
+                      "style": {
+                        "width": "15vh"
+                      }
                     },
                     {
                       "section": "Ruler",
-                      "style": false
+                      "style": {
+                        "width": "15vh"
+                      }
                     },
                     {
                       "section": "Attack Zone CR",
-                      "style": false
+                      "style": {
+                        "width": "15vh"
+                      }
                     }
                   ],
                   "isSymetricalForOpponents": false
@@ -147,20 +165,27 @@
                 {
                   "direction": "row",
                   "style": {
-                    "height": "8vh"
+                    "height": "8vh",
+                    "align": "center"
                   },
                   "content": [
                     {
                       "section": "Set Zone L",
-                      "style": false
+                      "style": {
+                        "width": "15vh"
+                      }
                     },
                     {
                       "section": "Set Zone C",
-                      "style": false
+                      "style": {
+                        "width": "15vh"
+                      }
                     },
                     {
                       "section": "Set Zone R",
-                      "style": false
+                      "style": {
+                        "width": "15vh"
+                      }
                     }
                   ],
                   "isSymetricalForOpponents": false
