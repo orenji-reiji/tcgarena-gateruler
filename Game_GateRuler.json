@@ -57,7 +57,7 @@
           "Defense Zone",
           "Trigger Zone",
           "Field Zone",
-          "Damage Zone",
+          "Damage Zone 1",
           "Set Zone L",
           "Set Zone C",
           "Set Zone R",
@@ -66,7 +66,8 @@
           "Attack Zone TR",
           "Attack Zone TR2",
           "Attack Zone CL",
-          "Attack Zone CR"
+          "Attack Zone CR",
+          "Damage Zone 2"
         ],
         "layout": {
           "direction": "row",
@@ -77,7 +78,11 @@
               "style": false,
               "content": [
                 {
-                  "section": "Damage Zone",
+                  "section": "Damage Zone 1",
+                  "style": false
+                },
+                {
+                  "section": "Damage Zone 2",
                   "style": false
                 }
               ],
@@ -333,22 +338,6 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Damage Zone": {
-            "title": "Damage Zone",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "END",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Damage Zone",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": true,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Ruler": {
             "title": "Ruler",
             "isHidden": "no",
@@ -566,6 +555,38 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "Attack Zone",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Damage Zone 1": {
+            "title": "Damage Zone 1",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "END",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Damage 1-5",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": true,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Damage Zone 2": {
+            "title": "Damage Zone 2",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Damage 6+",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
