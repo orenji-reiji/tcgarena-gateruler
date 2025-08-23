@@ -74,126 +74,114 @@
           "content": [
             {
               "direction": "column",
-              "style": {
-                "justifyContent": "end"
-              },
+              "style": false,
               "content": [
                 {
                   "section": "Damage Zone",
                   "style": false
-                },
-                {
-                  "section": "Resources",
-                  "style": false
                 }
               ],
-              "isSymetricalForOpponents": true
+              "isSymetricalForOpponents": false
             },
             {
               "direction": "column",
               "style": false,
               "content": [
                 {
-                  "direction": "row",
-                  "style": {
-                    "height": "15vh"
-                  },
-                  "content": [
-                    {
-                      "section": "Attack Zone TL2",
-                      "style": {
-                        "width": "15vh"
-                      }
-                    },
-                    {
-                      "section": "Attack Zone TL",
-                      "style": {
-                        "width": "15vh"
-                      }
-                    },
-                    {
-                      "section": "Defense Zone",
-                      "style": {
-                        "width": "15vh"
-                      }
-                    },
-                    {
-                      "section": "Attack Zone TR",
-                      "style": {
-                        "width": "15vh"
-                      }
-                    },
-                    {
-                      "section": "Attack Zone TR2",
-                      "style": {
-                        "width": "15vh"
-                      }
-                    }
-                  ],
-                  "isSymetricalForOpponents": true
+                  "section": "Attack Zone TL2",
+                  "style": false
                 },
                 {
-                  "direction": "row",
-                  "style": {
-                    "height": "15vh"
-                  },
-                  "content": [
-                    {
-                      "section": "Attack Zone CL",
-                      "style": {
-                        "width": "10vh"
-                      }
-                    },
-                    {
-                      "section": "Ruler",
-                      "style": {
-                        "width": "10vh"
-                      }
-                    },
-                    {
-                      "section": "Attack Zone CR",
-                      "style": {
-                        "width": "10vh"
-                      }
-                    }
-                  ],
-                  "isSymetricalForOpponents": true
+                  "direction": "column",
+                  "style": false,
+                  "content": [],
+                  "isSymetricalForOpponents": false
                 },
                 {
-                  "direction": "row",
-                  "style": {
-                    "height": "15vh"
-                  },
+                  "direction": "column",
+                  "style": false,
                   "content": [
                     {
-                      "section": "Set Zone L",
-                      "style": {
-                        "width": "15vh"
-                      }
-                    },
-                    {
-                      "section": "Set Zone C",
-                      "style": {
-                        "width": "15vh"
-                      }
-                    },
-                    {
-                      "section": "Set Zone R",
-                      "style": {
-                        "width": "15vh"
-                      }
+                      "section": "Resources",
+                      "style": false
                     }
                   ],
-                  "isSymetricalForOpponents": true
+                  "isSymetricalForOpponents": false
                 }
               ],
-              "isSymetricalForOpponents": true
+              "isSymetricalForOpponents": false
             },
             {
               "direction": "column",
-              "style": {
-                "width": "15vh"
-              },
+              "style": false,
+              "content": [
+                {
+                  "section": "Attack Zone TL",
+                  "style": false
+                },
+                {
+                  "section": "Attack Zone CL",
+                  "style": false
+                },
+                {
+                  "section": "Set Zone L",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "Defense Zone",
+                  "style": false
+                },
+                {
+                  "section": "Ruler",
+                  "style": false
+                },
+                {
+                  "section": "Set Zone C",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "Attack Zone TR",
+                  "style": false
+                },
+                {
+                  "section": "Attack Zone CR",
+                  "style": false
+                },
+                {
+                  "section": "Set Zone R",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "Attack Zone TR2",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": false,
               "content": [
                 {
                   "section": "Field Zone",
@@ -204,7 +192,7 @@
                   "style": false
                 }
               ],
-              "isSymetricalForOpponents": true
+              "isSymetricalForOpponents": false
             }
           ]
         },
