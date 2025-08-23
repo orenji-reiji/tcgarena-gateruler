@@ -82,7 +82,10 @@
                 },
                 {
                   "section": "Resources",
-                  "style": false
+                  "style": {
+                    "width": "15vh",
+                    "marginLeft": "25rem"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -167,7 +170,9 @@
             },
             {
               "direction": "column",
-              "style": false,
+              "style": {
+                "width": "15vh"
+              },
               "content": [
                 {
                   "section": "Field Zone",
@@ -200,9 +205,9 @@
             "displayedTitle": "Damage Zone",
             "noQuickActions": false,
             "enterTapped": false,
-            "enterSpun": false,
+            "enterSpun": true,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": true,
+            "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
           "Ruler": {
@@ -257,7 +262,7 @@
             "title": "Trigger Zone",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "CENTER",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
@@ -273,7 +278,7 @@
             "title": "Resources",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "CENTER",
+            "alignment": "END",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
@@ -287,11 +292,11 @@
           },
           "Set Zone C": {
             "title": "Set Zone C",
-            "isHidden": "no",
+            "isHidden": "yes",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": false,
+            "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "Set Zone",
             "noQuickActions": false,
@@ -303,15 +308,15 @@
           },
           "Set Zone L": {
             "title": "Set Zone L",
-            "isHidden": "no",
+            "isHidden": "yes",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
             "displayedTitle": "Set Zone",
             "noQuickActions": false,
-            "enterTapped": false,
+            "enterTapped": true,
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
