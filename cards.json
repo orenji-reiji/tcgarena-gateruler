@@ -7,7 +7,7 @@
         "name": "1. A - Apprentice",
         "type": "Ruler",
         "cost": "",
-        "image": "https://i.ibb.co/SDCJwXd0/1-a-apprentice.png",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS01/1_a-apprentice.png?raw=true",
         "isHorizontal": false
       }
     },
@@ -29,7 +29,7 @@
         "name": "Galactic Swordmaster Goldizer",
         "type": "Unit",
         "cost": "3",
-        "image": "https://i.ibb.co/M59dxm9T/galactic-swordmaster-goldizer.png",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS01/galactic_swordmaster_goldizer.png?raw=true",
         "isHorizontal": false
       }
     },
@@ -54,7 +54,7 @@
         "name": "Emergency Fusion NOW!!!",
         "type": "Event",
         "cost": "2",
-        "image": "https://i.ibb.co/DFF5jLp/emergency-fusion-now.png",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS01/emergency_fusion_now.png?raw=true",
         "isHorizontal": true
       }
     },
@@ -78,7 +78,7 @@
         "name": "Sky Trooper Type 0 \"Sourai\"",
         "type": "Unit",
         "cost": "2",
-        "image": "https://i.ibb.co/ZpBLz5fb/sky-trooper-type-0-sourai.png",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS01/sky_trooper_type_0_sourai.png?raw=true",
         "isHorizontal": false
       }
     },
@@ -108,7 +108,7 @@
         "name": "Space Ninja Silverfang",
         "type": "Unit",
         "cost": "2",
-        "image": "https://i.ibb.co/NnrFzQSD/space-ninja-silverfang.png",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS01/space_ninja_silverfang.png?raw=true",
         "isHorizontal": false
       }
     },
@@ -139,7 +139,7 @@
         "name": "Heddie Headhunter, Syndicate Recruiter",
         "type": "Unit",
         "cost": "2",
-        "image": "https://i.ibb.co/8gnNsDG2/heddie-headhunter-syndicate-recruiter.png",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS01/heddie_headhunter_syndicate_recruiter.png?raw=true",
         "isHorizontal": false
       }
     },
@@ -170,7 +170,7 @@
         "name": "Milky Way Patrol",
         "type": "Unit",
         "cost": 0,
-        "image": "https://i.ibb.co/6Rj8dDYq/milky-way-patrol.png",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS01/milky_way_patrol.png?raw=true",
         "isHorizontal": false
       }
     },
@@ -200,7 +200,7 @@
         "name": "Space Dullahan",
         "type": "Unit",
         "cost": 0,
-        "image": "https://i.ibb.co/PvFxyFSR/space-dullahan.png",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS01/space_dullahan.png?raw=true",
         "isHorizontal": false
       }
     },
@@ -229,7 +229,7 @@
         "name": "Blaster Cannon",
         "type": "Event",
         "cost": "1",
-        "image": "https://i.ibb.co/XZjhpHTc/blaster-cannon.png",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS01/blaster_cannon.png?raw=true",
         "isHorizontal": true
       }
     },
@@ -258,7 +258,7 @@
         "name": "Jaunting",
         "type": "Event",
         "cost": "1",
-        "image": "https://i.ibb.co/tMB6bdY2/jaunting.png",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS01/jaunting.png?raw=true",
         "isHorizontal": true
       }
     },
@@ -287,7 +287,7 @@
         "name": "Exo-Armor Trooper Masuraoh-01",
         "type": "Unit",
         "cost": "2",
-        "image": "https://i.ibb.co/5xXvj4Zt/exo-armor-trooper-masuraoh-01.png",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS01/exo-armor_trooper_masuraoh-01.png?raw=true",
         "isHorizontal": false
       }
     },
@@ -317,7 +317,7 @@
         "name": "Exo-Armor Trooper \"Sakimori\"",
         "type": "Unit",
         "cost": "1",
-        "image": "https://i.ibb.co/Wv9qKrc5/exo-armor-trooper-sakimori.png",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS01/exo-armor_trooper_sakimori.png?raw=true",
         "isHorizontal": false
       }
     },
@@ -345,7 +345,7 @@
         "name": "Joe of the Kamaitachi",
         "type": "Unit",
         "cost": 0,
-        "image": "https://i.ibb.co/RkjZbn5s/joe-of-the-kamaitachi.png",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS01/joe_of_the_kamaitachi.png?raw=true",
         "isHorizontal": false
       }
     },
@@ -373,7 +373,7 @@
         "name": "Hardsuit Assault Team \"Jinrai\"",
         "type": "Unit",
         "cost": 0,
-        "image": "https://i.ibb.co/h1RCWTDb/hardsuit-assault-team-jinrai.png",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS01/hardsuit_assault_team_jinrai.png?raw=true",
         "isHorizontal": false
       }
     },
@@ -401,7 +401,7 @@
         "name": "Combat Engineer Unit \"Inagi\"",
         "type": "Unit",
         "cost": 0,
-        "image": "https://i.ibb.co/bgmyyzLw/combat-engineer-unit-inagi.png",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS01/combat_engineer_unit_inagi.png?raw=true",
         "isHorizontal": false
       }
     },
@@ -428,7 +428,7 @@
         "name": "Yobuko of the Midnight Watch",
         "type": "Unit",
         "cost": 0,
-        "image": "https://i.ibb.co/FbFxzBMV/yobuko-of-the-midnight-watch.png",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS01/yobuko_of_the_midnight_watch.png?raw=true",
         "isHorizontal": false
       }
     },
@@ -458,7 +458,7 @@
         "name": "Split-Second Counter Strike",
         "type": "Event",
         "cost": 0,
-        "image": "https://i.ibb.co/V0L42QBZ/split-second-counter-strike.png",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS01/split_second_counter_strike.png?raw=true",
         "isHorizontal": true
       }
     },
@@ -486,7 +486,7 @@
         "name": "Desperate Resistance",
         "type": "Event",
         "cost": 0,
-        "image": "https://i.ibb.co/93qyC9V3/desperate-resistance.png",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS01/desperate_resistance.png?raw=true",
         "isHorizontal": false
       }
     },
