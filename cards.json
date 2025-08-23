@@ -41,7 +41,6 @@
       "Military",
       "Robotic"
     ],
-    "Faction": "Wonderverse",
     "ATK": "6",
     "HP": "6",
     "STK": "4"
@@ -65,7 +64,6 @@
       "Cosmic Relic",
       "Technology"
     ],
-    "Faction": "Wonderverse",
     "Icons": [
       "CNT"
     ]
@@ -85,7 +83,6 @@
     "name": "Sky Trooper Type 0 \"Sourai\"",
     "type": "Unit",
     "cost": "2",
-    "Faction": "Yomajin Front",
     "Attributes": [
       "Military",
       "Robotic"
@@ -115,7 +112,6 @@
     "name": "Space Ninja Silverfang",
     "type": "Unit",
     "cost": "2",
-    "Faction": "Wonderverse",
     "Attributes": [
       "Crimenauts",
       "Ninja",
@@ -146,7 +142,6 @@
     "name": "Heddie Headhunter, Syndicate Recruiter",
     "type": "Unit",
     "cost": "2",
-    "Faction": "Wonderverse",
     "Attributes": [
       "Crimenauts",
       "Space Peeps"
@@ -177,7 +172,6 @@
     "name": "Milky Way Patrol",
     "type": "Unit",
     "cost": 0,
-    "Faction": "Wonderverse",
     "Attributes": [
       "Future Folk",
       "Military"
@@ -207,7 +201,6 @@
     "name": "Space Dullahan",
     "type": "Unit",
     "cost": 0,
-    "Faction": "Wonderverse",
     "Attributes": [
       "Supernatural",
       "Warrior",
@@ -236,7 +229,6 @@
     "name": "Blaster Cannon",
     "type": "Event",
     "cost": "1",
-    "Faction": "Wonderverse",
     "Attributes": [
       "Military"
     ],
@@ -265,7 +257,6 @@
     "name": "Jaunting",
     "type": "Event",
     "cost": "1",
-    "Faction": "Wonderverse",
     "Attributes": [
       "Technology"
     ],
@@ -294,7 +285,6 @@
     "name": "Exo-Armor Trooper Masuraoh-01",
     "type": "Unit",
     "cost": "2",
-    "Faction": "Yomajin Front",
     "Attributes": [
       "Military",
       "Robotic"
@@ -324,7 +314,6 @@
     "name": "Exo-Armor Trooper \"Sakimori\"",
     "type": "Unit",
     "cost": "1",
-    "Faction": "Yomajin Front",
     "Attributes": [
       "Military",
       "Robotic"
@@ -352,7 +341,6 @@
     "name": "Joe of the Kamaitachi",
     "type": "Unit",
     "cost": 0,
-    "Faction": "Yomajin Front",
     "Attributes": [
       "Supernatural",
       "Beast"
@@ -380,7 +368,6 @@
     "name": "Hardsuit Assault Team \"Jinrai\"",
     "type": "Unit",
     "cost": 0,
-    "Faction": "Yomajin Front",
     "Attributes": [
       "Warrior",
       "Military"
@@ -408,7 +395,6 @@
     "name": "Combat Engineer Unit \"Inagi\"",
     "type": "Unit",
     "cost": 0,
-    "Faction": "Yomajin Front",
     "Attributes": [
       "Military"
     ],
@@ -435,7 +421,6 @@
     "name": "Yobuko of the Midnight Watch",
     "type": "Unit",
     "cost": 0,
-    "Faction": "Yomajin Front",
     "Attributes": [
       "Supernatural",
       "Military"
@@ -465,7 +450,6 @@
     "name": "Split-Second Counter Strike",
     "type": "Event",
     "cost": 0,
-    "Faction": "Yomajin Front",
     "Attributes": [
       "Sword Technique"
     ],
@@ -493,7 +477,6 @@
     "name": "Desperate Resistance",
     "type": "Event",
     "cost": 0,
-    "Faction": "Yomajin Front",
     "Attributes": [
       "Tactics"
     ],
@@ -528,6 +511,544 @@
     "Faction": "",
     "HP": "",
     "Icons": false,
+    "Keywords": false,
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GB01-L2a": {
+    "id": "2020GB01-L2a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "11. K - Knight",
+        "type": "Ruler",
+        "cost": "",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS02/11_k-knight.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "11. K - Knight",
+    "type": "Ruler",
+    "cost": "",
+    "Attributes": false,
+    "Life": "11",
+    "ATK": "3",
+    "STK": "3",
+    "Faction": "",
+    "HP": "",
+    "Icons": false,
+    "Keywords": false,
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GS02-009": {
+    "id": "2020GS02-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nox Djinn",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS02/nox_djinn.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nox Djinn",
+    "type": "Unit",
+    "cost": "2",
+    "Attributes": [
+      "OWL",
+      "Supernatural",
+      "Darkness"
+    ],
+    "Life": "",
+    "ATK": "3",
+    "STK": "1",
+    "HP": "2",
+    "Icons": [
+      "CNT"
+    ],
+    "Keywords": false,
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GS02-010": {
+    "id": "2020GS02-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nosferatu Soldier",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS02/nosferatu_soldier.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nosferatu Soldier",
+    "type": "Unit",
+    "cost": "1",
+    "Attributes": [
+      "OWL",
+      "Military",
+      "Darkness"
+    ],
+    "Life": "",
+    "ATK": "2",
+    "STK": "1",
+    "Faction": "ATLAS",
+    "HP": "2",
+    "Icons": false,
+    "Keywords": [
+      "Undying"
+    ],
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GS02-011": {
+    "id": "2020GS02-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Johan, Enthralled Prodigy",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS02/johan_enthralled_prodigy.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Johan, Enthralled Prodigy",
+    "type": "Unit",
+    "cost": "1",
+    "Attributes": [
+      "Mage"
+    ],
+    "Life": "",
+    "ATK": "2",
+    "STK": "1",
+    "Faction": "ATLAS",
+    "HP": "2",
+    "Icons": false,
+    "Keywords": [
+      "Abyssal Summoning"
+    ],
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GS02-012": {
+    "id": "2020GS02-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Midas G. Goldberg",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS02/midas_g_goldberg.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Midas G. Goldberg",
+    "type": "Unit",
+    "cost": "1",
+    "Attributes": [
+      "Key Figure",
+      "Darkness"
+    ],
+    "Life": "",
+    "ATK": "3",
+    "STK": "1",
+    "Faction": "ATLAS",
+    "HP": "4",
+    "Icons": false,
+    "Keywords": false,
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GS02-013": {
+    "id": "2020GS02-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jack the Ripper",
+        "type": "Unit",
+        "cost": "0",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS02/jack_the_ripper.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jack the Ripper",
+    "type": "Unit",
+    "cost": 0,
+    "Attributes": [
+      "OWL",
+      "Darkness"
+    ],
+    "Life": "",
+    "ATK": "3",
+    "STK": "1",
+    "Faction": "ATLAS",
+    "HP": "1",
+    "Icons": false,
+    "Keywords": false,
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GS02-014": {
+    "id": "2020GS02-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nibelung",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS02/nibelung.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nibelung",
+    "type": "Unit",
+    "cost": 0,
+    "Attributes": [
+      "OWL",
+      "Supernatural",
+      "Darkness"
+    ],
+    "Life": "",
+    "ATK": "1",
+    "STK": "1",
+    "Faction": "ATLAS",
+    "HP": "4",
+    "Icons": false,
+    "Keywords": false,
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GS02-015": {
+    "id": "2020GS02-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Steel Storm",
+        "type": "Event",
+        "cost": "1",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS02/steel_storm.png?raw=true",
+        "isHorizontal": true
+      }
+    },
+    "name": "Steel Storm",
+    "type": "Event",
+    "cost": "1",
+    "Attributes": [
+      "Firepower",
+      "Military"
+    ],
+    "Life": "",
+    "ATK": "",
+    "STK": "",
+    "Faction": "ATLAS",
+    "HP": "",
+    "Icons": [
+      "CNT"
+    ],
+    "Keywords": false,
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GS02-016": {
+    "id": "2020GS02-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Win-Win",
+        "type": "Event",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS02/win_win.png?raw=true",
+        "isHorizontal": true
+      }
+    },
+    "name": "Win-Win",
+    "type": "Event",
+    "cost": 0,
+    "Attributes": [
+      "Business"
+    ],
+    "Life": "",
+    "ATK": "",
+    "STK": "",
+    "Faction": "ATLAS",
+    "HP": "",
+    "Icons": false,
+    "Keywords": false,
+    "Legend": true,
+    "Errata": ""
+  },
+  "2020GS02-017": {
+    "id": "2020GS02-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Making a Killing",
+        "type": "Event",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS02/making_a_killing.png?raw=true",
+        "isHorizontal": true
+      }
+    },
+    "name": "Making a Killing",
+    "type": "Event",
+    "cost": 0,
+    "Attributes": [
+      "Business"
+    ],
+    "Life": "",
+    "ATK": "",
+    "STK": "",
+    "Faction": "ATLAS",
+    "HP": "",
+    "Icons": false,
+    "Keywords": false,
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GS02-001": {
+    "id": "2020GS02-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vastorus Rex, Fell Dragon Quadrarch of Ruin",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS02/vastorus_rex_fell_dragon_quadrach_of_ruin.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vastorus Rex, Fell Dragon Quadrarch of Ruin",
+    "type": "Unit",
+    "cost": "3",
+    "Attributes": [
+      "Dragon Lord",
+      "Darkness"
+    ],
+    "Life": "",
+    "ATK": "7",
+    "STK": "2",
+    "Faction": "Volnar",
+    "HP": "7",
+    "Icons": [
+      "CNT"
+    ],
+    "Keywords": [
+      "Abyssal Concerto"
+    ],
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GS02-002": {
+    "id": "2020GS02-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fell Dragon Priest",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS02/fell_dragon_priest.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fell Dragon Priest",
+    "type": "Unit",
+    "cost": "2",
+    "Attributes": [
+      "Mage",
+      "Darkness"
+    ],
+    "Life": "",
+    "ATK": "4",
+    "STK": "2",
+    "Faction": "Volnar",
+    "HP": "2",
+    "Icons": false,
+    "Keywords": [
+      "Abyssal Summoning"
+    ],
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GS02-003": {
+    "id": "2020GS02-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Deathbringer, the Two-Headed Blight",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS02/deathbringer_the_two_headed_blight.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Deathbringer, the Two-Headed Blight",
+    "type": "Unit",
+    "cost": "2",
+    "Attributes": [
+      "Dragon",
+      "Darkness"
+    ],
+    "Life": "",
+    "ATK": "5",
+    "STK": "2",
+    "Faction": "Volnar",
+    "HP": "5",
+    "Icons": false,
+    "Keywords": [
+      "Abyssal Concerto"
+    ],
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GS02-004": {
+    "id": "2020GS02-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fell Dragon Fanatic",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS02/fell_dragon_fanatic.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fell Dragon Fanatic",
+    "type": "Unit",
+    "cost": 0,
+    "Attributes": [
+      "Betrayer",
+      "Darkness"
+    ],
+    "Life": "",
+    "ATK": "2",
+    "STK": "1",
+    "Faction": "Volnar",
+    "HP": "1",
+    "Icons": false,
+    "Keywords": false,
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GS02-005": {
+    "id": "2020GS02-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dark Knight Geist",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS02/dark_knight_geist.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dark Knight Geist",
+    "type": "Unit",
+    "cost": 0,
+    "Attributes": [
+      "Warrior",
+      "Betrayer",
+      "Darkness"
+    ],
+    "Life": "",
+    "ATK": "4",
+    "STK": "1",
+    "Faction": "Volnar",
+    "HP": "1",
+    "Icons": false,
+    "Keywords": false,
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GS02-006": {
+    "id": "2020GS02-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dark Knight Reaver",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS02/dark_knight_reaver.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dark Knight Reaver",
+    "type": "Unit",
+    "cost": 0,
+    "Attributes": [
+      "Warrior",
+      "Betrayer",
+      "Darkness"
+    ],
+    "Life": "",
+    "ATK": "3",
+    "STK": "1",
+    "Faction": "Volnar",
+    "HP": "3",
+    "Icons": false,
+    "Keywords": false,
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GS02-007": {
+    "id": "2020GS02-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "March of Darkness",
+        "type": "Event",
+        "cost": "2",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS02/march_of_darkness.png?raw=true",
+        "isHorizontal": true
+      }
+    },
+    "name": "March of Darkness",
+    "type": "Event",
+    "cost": "2",
+    "Attributes": [
+      "Magic"
+    ],
+    "Life": "",
+    "ATK": "",
+    "STK": "",
+    "Faction": "Volnar",
+    "HP": "",
+    "Icons": [
+      "CNT"
+    ],
+    "Keywords": false,
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GS02-008": {
+    "id": "2020GS02-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Absolute Zero Field",
+        "type": "Event",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GS02/absolute_zero_field.png?raw=true",
+        "isHorizontal": true
+      }
+    },
+    "name": "Absolute Zero Field",
+    "type": "Event",
+    "cost": 0,
+    "Attributes": [
+      "Magic"
+    ],
+    "Life": "",
+    "ATK": "",
+    "STK": "",
+    "Faction": "",
+    "HP": "",
+    "Icons": [
+      "CNT"
+    ],
     "Keywords": false,
     "Legend": false,
     "Errata": ""
