@@ -505,5 +505,31 @@
     "Keywords": false,
     "Legend": false,
     "Errata": ""
+  },
+  "Resource": {
+    "id": "Resource",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Resource",
+        "type": false,
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/gr_resource.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Resource",
+    "type": "Resource",
+    "cost": "",
+    "Attributes": false,
+    "Life": "",
+    "ATK": "",
+    "STK": "",
+    "Faction": "",
+    "HP": "",
+    "Icons": false,
+    "Keywords": false,
+    "Legend": false,
+    "Errata": ""
   }
 }
