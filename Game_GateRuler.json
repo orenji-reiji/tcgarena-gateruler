@@ -103,17 +103,6 @@
                   "style": false,
                   "content": [],
                   "isSymetricalForOpponents": false
-                },
-                {
-                  "direction": "column",
-                  "style": false,
-                  "content": [
-                    {
-                      "section": "Resources",
-                      "style": false
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
                 }
               ],
               "isSymetricalForOpponents": false
@@ -204,6 +193,10 @@
                 },
                 {
                   "section": "Trigger Zone",
+                  "style": false
+                },
+                {
+                  "section": "Resources",
                   "style": false
                 }
               ],
