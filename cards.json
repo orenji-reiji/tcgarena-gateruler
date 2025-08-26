@@ -43,7 +43,8 @@
     ],
     "ATK": "6",
     "HP": "6",
-    "STK": "4"
+    "STK": "4",
+    "Faction": "Wonderverse"
   },
   "2020GS01-015": {
     "id": "2020GS01-015",
@@ -66,7 +67,8 @@
     ],
     "Icons": [
       "CNT"
-    ]
+    ],
+    "Faction": "Wonderverse"
   },
   "2020GS01-001": {
     "id": "2020GS01-001",
@@ -95,7 +97,8 @@
     "Keywords": [
       "Defender"
     ],
-    "Legend": false
+    "Legend": false,
+    "Faction": "Yomajin Front"
   },
   "2020GS01-011": {
     "id": "2020GS01-011",
@@ -125,7 +128,8 @@
       "OD"
     ],
     "Keywords": false,
-    "Legend": true
+    "Legend": true,
+    "Faction": "Wonderverse"
   },
   "2020GS01-012": {
     "id": "2020GS01-012",
@@ -155,7 +159,8 @@
       "OD"
     ],
     "Keywords": false,
-    "Legend": false
+    "Legend": false,
+    "Faction": "Wonderverse"
   },
   "2020GS01-013": {
     "id": "2020GS01-013",
@@ -184,7 +189,8 @@
       "CNT"
     ],
     "Keywords": false,
-    "Legend": false
+    "Legend": false,
+    "Faction": "Wonderverse"
   },
   "2020GS01-014": {
     "id": "2020GS01-014",
@@ -212,7 +218,8 @@
     "STK": "1",
     "Icons": false,
     "Keywords": false,
-    "Legend": false
+    "Legend": false,
+    "Faction": "Wonderverse"
   },
   "2020GS01-016": {
     "id": "2020GS01-016",
@@ -240,7 +247,8 @@
       "CNT"
     ],
     "Keywords": false,
-    "Legend": false
+    "Legend": false,
+    "Faction": "Wonderverse"
   },
   "2020GS01-017": {
     "id": "2020GS01-017",
@@ -268,7 +276,8 @@
       "CNT"
     ],
     "Keywords": false,
-    "Legend": false
+    "Legend": false,
+    "Faction": "Wonderverse"
   },
   "2020GS01-002": {
     "id": "2020GS01-002",
@@ -297,7 +306,8 @@
       "OD"
     ],
     "Keywords": false,
-    "Legend": false
+    "Legend": false,
+    "Faction": "Yomajin Front"
   },
   "2020GS01-003": {
     "id": "2020GS01-003",
@@ -324,7 +334,8 @@
     "STK": "2",
     "Icons": false,
     "Keywords": false,
-    "Legend": false
+    "Legend": false,
+    "Faction": "Yomajin Front"
   },
   "2020GS01-004": {
     "id": "2020GS01-004",
@@ -351,7 +362,8 @@
     "STK": "1",
     "Icons": false,
     "Keywords": false,
-    "Legend": false
+    "Legend": false,
+    "Faction": "Yomajin Front"
   },
   "2020GS01-005": {
     "id": "2020GS01-005",
@@ -378,7 +390,8 @@
     "STK": "2",
     "Icons": false,
     "Keywords": false,
-    "Legend": false
+    "Legend": false,
+    "Faction": "Yomajin Front"
   },
   "2020GS01-006": {
     "id": "2020GS01-006",
@@ -404,7 +417,8 @@
     "STK": "1",
     "Icons": false,
     "Keywords": false,
-    "Legend": false
+    "Legend": false,
+    "Faction": "Yomajin Front"
   },
   "2020GS01-007": {
     "id": "2020GS01-007",
@@ -433,7 +447,8 @@
       "OD"
     ],
     "Keywords": false,
-    "Legend": false
+    "Legend": false,
+    "Faction": "Yomajin Front"
   },
   "2020GS01-008": {
     "id": "2020GS01-008",
@@ -460,7 +475,8 @@
     "Icons": false,
     "Keywords": false,
     "Legend": false,
-    "Errata": "■ Choose 1 allied unit. Until the end of this combat, it gains Intercept."
+    "Errata": "■ Choose 1 allied unit. Until the end of this combat, it gains Intercept.",
+    "Faction": "Yomajin Front"
   },
   "2020GS01-009": {
     "id": "2020GS01-009",
@@ -487,7 +503,8 @@
     "Icons": false,
     "Keywords": false,
     "Legend": false,
-    "Errata": ""
+    "Errata": "",
+    "Faction": "Yomajin Front"
   },
   "Resource": {
     "id": "Resource",
@@ -495,7 +512,7 @@
     "face": {
       "front": {
         "name": "Resource",
-        "type": false,
+        "type": "Resource",
         "cost": 0,
         "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/gr_resource.jpg?raw=true",
         "isHorizontal": false
@@ -570,7 +587,8 @@
     ],
     "Keywords": false,
     "Legend": false,
-    "Errata": ""
+    "Errata": "",
+    "Faction": "ATLAS"
   },
   "2020GS02-010": {
     "id": "2020GS02-010",
@@ -1044,7 +1062,7 @@
     "Life": "",
     "ATK": "",
     "STK": "",
-    "Faction": "",
+    "Faction": "Volnar",
     "HP": "",
     "Icons": [
       "CNT"
@@ -1052,5 +1070,347 @@
     "Keywords": false,
     "Legend": false,
     "Errata": ""
+  },
+  "GB01-L3a": {
+    "id": "GB01-L3a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "8. H - Highlander",
+        "type": "Ruler",
+        "cost": "",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/8_h_highlander.png?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "8. H - Highlander",
+    "type": "Ruler",
+    "cost": "",
+    "Attributes": false,
+    "Life": "12",
+    "ATK": "4",
+    "STK": "3",
+    "HP": "",
+    "Icons": false,
+    "Keywords": false,
+    "Legend": false,
+    "Errata": "",
+    "Faction": ""
+  },
+  "2020GB01-001": {
+    "id": "2020GB01-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Magvarius, Grand Dragon Pentarch of Inferno",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/Volnar/magvarius_grand_dragon_pentarch_of_inferno.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Magvarius, Grand Dragon Pentarch of Inferno",
+    "type": "Unit",
+    "cost": "3",
+    "Attributes": [
+      "Dragon",
+      "Dragon Lord",
+      "Fire"
+    ],
+    "Life": "",
+    "ATK": "7",
+    "STK": "3",
+    "HP": "7",
+    "Icons": [
+      "CNT"
+    ],
+    "Keywords": false,
+    "Legend": true,
+    "Errata": "",
+    "Faction": "Volnar"
+  },
+  "2020GB01-002": {
+    "id": "2020GB01-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blaze Vortex",
+        "type": "Event",
+        "cost": "2",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/Volnar/blaze_vortex.jpg?raw=true",
+        "isHorizontal": true
+      }
+    },
+    "name": "Blaze Vortex",
+    "type": "Event",
+    "cost": "2",
+    "Attributes": [
+      "Lost Magic"
+    ],
+    "Life": "",
+    "ATK": "",
+    "STK": "",
+    "HP": "",
+    "Icons": false,
+    "Keywords": false,
+    "Legend": true,
+    "Errata": "",
+    "Faction": "Volnar"
+  },
+  "2020GB01-003": {
+    "id": "2020GB01-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Albavolt, Platinum Grand Dragon",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/Volnar/albavolt_platinum_grand_dragon.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Albavolt, Platinum Grand Dragon",
+    "type": "Unit",
+    "cost": "3",
+    "Attributes": [
+      "Dragon",
+      "Dragon Lord"
+    ],
+    "Life": "",
+    "ATK": "7",
+    "STK": "2",
+    "HP": "6",
+    "Icons": false,
+    "Keywords": [
+      "Breakthrough"
+    ],
+    "Legend": false,
+    "Errata": "",
+    "Faction": "Volnar"
+  },
+  "2020GB01-004": {
+    "id": "2020GB01-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Viola Furiosa, Raging Fell Dragon",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/Volnar/EN_2020GB01-004.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Viola Furiosa, Raging Fell Dragon",
+    "type": "Unit",
+    "cost": "3",
+    "Attributes": [
+      "Dragon",
+      "Dragon Lord",
+      "Darkness"
+    ],
+    "Life": "",
+    "ATK": "7",
+    "STK": "3",
+    "HP": "6",
+    "Icons": false,
+    "Keywords": [
+      "Abyssal Concerto"
+    ],
+    "Legend": false,
+    "Errata": "",
+    "Faction": "Volnar"
+  },
+  "2020GB01-005": {
+    "id": "2020GB01-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Abyssal Conductor Alighieri",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/Volnar/abyssal_conductor_alighieri.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Abyssal Conductor Alighieri",
+    "type": "Unit",
+    "cost": "2",
+    "Attributes": [
+      "Mage",
+      "Darkness"
+    ],
+    "Life": "",
+    "ATK": "3",
+    "STK": "1",
+    "HP": "2",
+    "Icons": [
+      "TD"
+    ],
+    "Keywords": [
+      "Abyssal Summoning"
+    ],
+    "Legend": false,
+    "Errata": "",
+    "Faction": "Volnar"
+  },
+  "2020GB01-006": {
+    "id": "2020GB01-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shiori Laudia, Imperial Magus",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/Volnar/shiori_laudia_imperial_magus.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shiori Laudia, Imperial Magus",
+    "type": "Unit",
+    "cost": "2",
+    "Attributes": [
+      "Mage"
+    ],
+    "Life": "",
+    "ATK": "3",
+    "STK": "2",
+    "HP": "3",
+    "Icons": [
+      "TD",
+      "OD"
+    ],
+    "Keywords": [
+      "Genesis Summoning"
+    ],
+    "Legend": false,
+    "Errata": "",
+    "Faction": "Volnar"
+  },
+  "2020GB01-007": {
+    "id": "2020GB01-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aras, Ruler of the Skies",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/Volnar/aras_ruler_of_the_skies.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aras, Ruler of the Skies",
+    "type": "Unit",
+    "cost": "2",
+    "Attributes": [
+      "Wind",
+      "Warrior"
+    ],
+    "Life": "",
+    "ATK": "4",
+    "STK": "2",
+    "HP": "4",
+    "Icons": false,
+    "Keywords": [
+      "Defender"
+    ],
+    "Legend": false,
+    "Errata": "",
+    "Faction": "Volnar"
+  },
+  "2020GB01-008": {
+    "id": "2020GB01-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Umbralus, Fell Dragon of the Shadows",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/Volnar/umbralus_fell_dragon_of_the_shadows.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Umbralus, Fell Dragon of the Shadows",
+    "type": "Unit",
+    "cost": "2",
+    "Attributes": [
+      "Dragon",
+      "Darkness"
+    ],
+    "Life": "",
+    "ATK": "4",
+    "STK": "1",
+    "HP": "5",
+    "Icons": [
+      "CNT"
+    ],
+    "Keywords": [
+      "Abyssal Concerto"
+    ],
+    "Legend": false,
+    "Errata": "",
+    "Faction": "Volnar"
+  },
+  "2020GB01-009": {
+    "id": "2020GB01-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Golden Ringdancer Paula",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/Volnar/golden_ringdancer_paula.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Golden Ringdancer Paula",
+    "type": "Unit",
+    "cost": "1",
+    "Attributes": [
+      "Mage"
+    ],
+    "Life": "",
+    "ATK": "2",
+    "STK": "1",
+    "HP": "1",
+    "Icons": [
+      "TD"
+    ],
+    "Keywords": [
+      "Genesis Summoning"
+    ],
+    "Legend": false,
+    "Errata": "",
+    "Faction": "Volnar"
+  },
+  "2020GB01-010": {
+    "id": "2020GB01-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blast Mage Vulf",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/Volnar/blast_mage_vulf.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blast Mage Vulf",
+    "type": "Unit",
+    "cost": "1",
+    "Attributes": [
+      "Fire",
+      "Mage"
+    ],
+    "Life": "",
+    "ATK": "2",
+    "STK": "2",
+    "HP": "1",
+    "Icons": [
+      "TD"
+    ],
+    "Keywords": false,
+    "Legend": false,
+    "Errata": "",
+    "Faction": "Volnar"
   }
 }
