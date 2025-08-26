@@ -396,7 +396,7 @@
             "isHorizontalAllowed": false,
             "displayedTitle": "Trigger Zone",
             "noQuickActions": false,
-            "enterTapped": true,
+            "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
