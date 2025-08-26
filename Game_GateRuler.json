@@ -130,9 +130,7 @@
                 },
                 {
                   "section": "Set Zone L",
-                  "style": {
-                    "height": "10vh"
-                  }
+                  "style": false
                 }
               ],
               "isSymetricalForOpponents": false
@@ -153,9 +151,7 @@
                 },
                 {
                   "section": "Set Zone C",
-                  "style": {
-                    "height": "10vh"
-                  }
+                  "style": false
                 }
               ],
               "isSymetricalForOpponents": false
@@ -176,9 +172,7 @@
                 },
                 {
                   "section": "Set Zone R",
-                  "style": {
-                    "height": "10vh"
-                  }
+                  "style": false
                 }
               ],
               "isSymetricalForOpponents": false
