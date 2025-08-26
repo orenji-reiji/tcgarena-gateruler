@@ -131,7 +131,7 @@
                 {
                   "section": "Set Zone L",
                   "style": {
-                    "heigh": "10vh"
+                    "height": "10vh"
                   }
                 }
               ],
@@ -154,7 +154,7 @@
                 {
                   "section": "Set Zone C",
                   "style": {
-                    "heigh": "10vh"
+                    "height": "10vh"
                   }
                 }
               ],
@@ -177,7 +177,7 @@
                 {
                   "section": "Set Zone R",
                   "style": {
-                    "heigh": "10vh"
+                    "height": "10vh"
                   }
                 }
               ],
