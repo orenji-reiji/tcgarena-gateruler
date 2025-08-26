@@ -1412,5 +1412,633 @@
     "Legend": false,
     "Errata": "",
     "Faction": "Volnar"
+  },
+  "2020GB01-011": {
+    "id": "2020GB01-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ruberon, Crimson Dragon",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/Volnar/ruberon_crimson_dragon.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ruberon, Crimson Dragon",
+    "type": "Unit",
+    "cost": "2",
+    "Attributes": [
+      "Dragon",
+      "Fire"
+    ],
+    "Life": "",
+    "ATK": "4",
+    "STK": "2",
+    "HP": "5",
+    "Faction": "Volnar",
+    "Icons": false,
+    "Keywords": [],
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GB01-012": {
+    "id": "2020GB01-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Astromancy",
+        "type": "Event",
+        "cost": "2",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/Volnar/astromancy.jpg?raw=true",
+        "isHorizontal": true
+      }
+    },
+    "name": "Astromancy",
+    "type": "Event",
+    "cost": "2",
+    "Attributes": [
+      "Magic"
+    ],
+    "Life": "",
+    "ATK": "",
+    "STK": "",
+    "HP": "",
+    "Faction": "Volnar",
+    "Icons": false,
+    "Keywords": false,
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GB01-013": {
+    "id": "2020GB01-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Bloody Forest",
+        "type": "Field",
+        "cost": "2",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/Volnar/the_bloody_forest.jpg?raw=true",
+        "isHorizontal": true
+      }
+    },
+    "name": "The Bloody Forest",
+    "type": "Field",
+    "cost": "2",
+    "Attributes": [
+      "Magic"
+    ],
+    "Life": "",
+    "ATK": "",
+    "STK": "",
+    "HP": "",
+    "Faction": "Volnar",
+    "Icons": [
+      "CNT"
+    ],
+    "Keywords": false,
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GB01-014": {
+    "id": "2020GB01-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wescalot Imperial Legionary",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/Volnar/wescalot_imperial_legionary.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wescalot Imperial Legionary",
+    "type": "Unit",
+    "cost": 0,
+    "Attributes": [
+      "Warrior"
+    ],
+    "Life": "",
+    "ATK": "2",
+    "STK": "1",
+    "HP": "2",
+    "Faction": "Volnar",
+    "Icons": [
+      "TD"
+    ],
+    "Keywords": false,
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GB01-015": {
+    "id": "2020GB01-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fell Wolverine",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/Volnar/fell_wolverine.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fell Wolverine",
+    "type": "Unit",
+    "cost": 0,
+    "Attributes": [
+      "Earth",
+      "Beast"
+    ],
+    "Life": "",
+    "ATK": "1",
+    "STK": "1",
+    "HP": "1",
+    "Faction": "Volnar",
+    "Icons": [
+      "CNT"
+    ],
+    "Keywords": false,
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GB01-016": {
+    "id": "2020GB01-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flying Shield",
+        "type": "Event",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/Volnar/flying_shield.jpg?raw=true",
+        "isHorizontal": true
+      }
+    },
+    "name": "Flying Shield",
+    "type": "Event",
+    "cost": 0,
+    "Attributes": [
+      "Magic"
+    ],
+    "Life": "",
+    "ATK": "",
+    "STK": "",
+    "HP": "",
+    "Faction": "Volnar",
+    "Icons": false,
+    "Keywords": false,
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GB01-017": {
+    "id": "2020GB01-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Devourer of Time",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/Volnar/devourer_of_time.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Devourer of Time",
+    "type": "Unit",
+    "cost": "2",
+    "Attributes": [
+      "Betrayer"
+    ],
+    "Life": "",
+    "ATK": "4",
+    "STK": "2",
+    "HP": "1",
+    "Faction": "Volnar",
+    "Icons": [
+      "CNT"
+    ],
+    "Keywords": false,
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GB01-018": {
+    "id": "2020GB01-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zarberios, the Infernal Maw",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/Volnar/zarberios_the_infernal_maw.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zarberios, the Infernal Maw",
+    "type": "Unit",
+    "cost": "2",
+    "Attributes": [
+      "Betrayer",
+      "Beast",
+      "Darkness"
+    ],
+    "Life": "",
+    "ATK": "5",
+    "STK": "3",
+    "HP": "3",
+    "Faction": "Volnar",
+    "Icons": false,
+    "Keywords": false,
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GB01-019": {
+    "id": "2020GB01-019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flame Geyser",
+        "type": "Event",
+        "cost": "2",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/Volnar/flame_geyser.jpg?raw=true",
+        "isHorizontal": true
+      }
+    },
+    "name": "Flame Geyser",
+    "type": "Event",
+    "cost": "2",
+    "Attributes": [
+      "Fire",
+      "Magic"
+    ],
+    "Life": "",
+    "ATK": "",
+    "STK": "",
+    "HP": "",
+    "Faction": "Volnar",
+    "Icons": [
+      "CNT"
+    ],
+    "Keywords": false,
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GB01-020": {
+    "id": "2020GB01-020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dark Knight Delthor",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/Volnar/dark_knight_delthor.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dark Knight Delthor",
+    "type": "Unit",
+    "cost": "1",
+    "Attributes": [
+      "Warrior",
+      "Betrayer",
+      "Darkness"
+    ],
+    "Life": "",
+    "ATK": "4",
+    "STK": "2",
+    "HP": "3",
+    "Faction": "Volnar",
+    "Icons": false,
+    "Keywords": false,
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GB01-021": {
+    "id": "2020GB01-021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Brutauros",
+        "type": false,
+        "cost": "-1",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/Volnar/brutauros.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Brutauros",
+    "type": "Unit",
+    "cost": "1",
+    "Attributes": [
+      "Earth",
+      "Beast"
+    ],
+    "Life": "",
+    "ATK": "4",
+    "STK": "2",
+    "HP": "4",
+    "Faction": "Volnar",
+    "Icons": false,
+    "Keywords": false,
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GB01-022": {
+    "id": "2020GB01-022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Golden Hound",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/Volnar/golden_hound.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Golden Hound",
+    "type": "Unit",
+    "cost": "1",
+    "Attributes": [
+      "Light",
+      "Beast"
+    ],
+    "Life": "",
+    "ATK": "4",
+    "STK": "2",
+    "HP": "2",
+    "Faction": "Volnar",
+    "Icons": false,
+    "Keywords": [
+      "Familiar"
+    ],
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GB01-023": {
+    "id": "2020GB01-023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sharsana's Divine Shield",
+        "type": "Event",
+        "cost": "1",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/Volnar/sharsanas_divine_shield.jpg?raw=true",
+        "isHorizontal": true
+      }
+    },
+    "name": "Sharsana's Divine Shield",
+    "type": "Event",
+    "cost": "1",
+    "Attributes": [
+      "Light",
+      "Magic"
+    ],
+    "Life": "",
+    "ATK": "",
+    "STK": "",
+    "HP": "",
+    "Faction": "Volnar",
+    "Icons": [
+      "CNT"
+    ],
+    "Keywords": false,
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GB01-024": {
+    "id": "2020GB01-024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Forbid",
+        "type": "Event",
+        "cost": "1",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/Volnar/forbid.jpg?raw=true",
+        "isHorizontal": true
+      }
+    },
+    "name": "Forbid",
+    "type": "Event",
+    "cost": "1",
+    "Attributes": [
+      "Magic"
+    ],
+    "Life": "",
+    "ATK": "",
+    "STK": "",
+    "HP": "",
+    "Faction": "Volnar",
+    "Icons": [
+      "CNT"
+    ],
+    "Keywords": false,
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GB01-025": {
+    "id": "2020GB01-025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Thunderstrike",
+        "type": "Event",
+        "cost": "1",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/Volnar/thunderstrike.jpg?raw=true",
+        "isHorizontal": true
+      }
+    },
+    "name": "Thunderstrike",
+    "type": "Event",
+    "cost": "1",
+    "Attributes": [
+      "Magic"
+    ],
+    "Life": "",
+    "ATK": "",
+    "STK": "",
+    "HP": "",
+    "Faction": "Volnar",
+    "Icons": [
+      "CNT"
+    ],
+    "Keywords": false,
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GB01-026": {
+    "id": "2020GB01-026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Interdimensional War",
+        "type": "Event",
+        "cost": "1",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/Volnar/interdimensional_war.jpg?raw=true",
+        "isHorizontal": true
+      }
+    },
+    "name": "Interdimensional War",
+    "type": "Event",
+    "cost": "1",
+    "Attributes": [
+      "Magic"
+    ],
+    "Life": "",
+    "ATK": "",
+    "STK": "",
+    "HP": "",
+    "Faction": "Volnar",
+    "Icons": [
+      "CNT"
+    ],
+    "Keywords": false,
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GB01-027": {
+    "id": "2020GB01-027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Swordsman of the Sacred Blade",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/Volnar/swordsman_of_the_sacred_blade.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Swordsman of the Sacred Blade",
+    "type": "Unit",
+    "cost": 0,
+    "Attributes": [
+      "Warrior"
+    ],
+    "Life": "",
+    "ATK": "3",
+    "STK": "1",
+    "HP": "3",
+    "Faction": "Volnar",
+    "Icons": false,
+    "Keywords": false,
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GB01-028": {
+    "id": "2020GB01-028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Guiding Paladin",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/Volnar/guiding_paladin.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Guiding Paladin",
+    "type": "Unit",
+    "cost": 0,
+    "Attributes": [
+      "Wind",
+      "Warrior",
+      "Light"
+    ],
+    "Life": "",
+    "ATK": "3",
+    "STK": "1",
+    "HP": "2",
+    "Faction": "Volnar",
+    "Icons": [
+      "TD"
+    ],
+    "Keywords": false,
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GB01-029": {
+    "id": "2020GB01-029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hydra Familiar",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/Volnar/hydra_familiar.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hydra Familiar",
+    "type": "Unit",
+    "cost": 0,
+    "Attributes": [
+      "Beast"
+    ],
+    "Life": "",
+    "ATK": "2",
+    "STK": "1",
+    "HP": "2",
+    "Faction": "Volnar",
+    "Icons": [],
+    "Keywords": [
+      "Familiar"
+    ],
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GB01-030": {
+    "id": "2020GB01-030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yomajin Expeditionary Force",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/Volnar/yomajin_expeditionary_force.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yomajin Expeditionary Force",
+    "type": "Unit",
+    "cost": 0,
+    "Attributes": [
+      "Warrior",
+      "Military"
+    ],
+    "Life": "",
+    "ATK": "1",
+    "STK": "1",
+    "HP": "5",
+    "Faction": "Volnar",
+    "Icons": false,
+    "Keywords": [],
+    "Legend": false,
+    "Errata": ""
+  },
+  "2020GB01-S": {
+    "id": "2020GB01-S",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blazing Judgment of Magvarius",
+        "type": "Event",
+        "cost": "3",
+        "image": "https://github.com/orenji-reiji/tcgarena-gateruler/blob/main/GB01/Volnar/blazing_judgment_of_magvarius.jpg?raw=true",
+        "isHorizontal": true
+      }
+    },
+    "name": "Blazing Judgment of Magvarius",
+    "type": "Event",
+    "cost": "3",
+    "Attributes": [
+      "Dragon",
+      "Fire"
+    ],
+    "Life": "",
+    "ATK": "",
+    "STK": "",
+    "HP": "",
+    "Faction": "Volnar",
+    "Icons": [
+      "CNT"
+    ],
+    "Keywords": false,
+    "Legend": true,
+    "Errata": ""
   }
 }
