@@ -130,7 +130,9 @@
                 },
                 {
                   "section": "Set Zone L",
-                  "style": false
+                  "style": {
+                    "height": "15vh"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -151,7 +153,9 @@
                 },
                 {
                   "section": "Set Zone C",
-                  "style": false
+                  "style": {
+                    "height": "15vh"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -172,7 +176,9 @@
                 },
                 {
                   "section": "Set Zone R",
-                  "style": false
+                  "style": {
+                    "height": "15vh"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -415,7 +421,7 @@
             "enterTapped": true,
             "enterSpun": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
+            "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
           "Set Zone L": {
@@ -431,7 +437,7 @@
             "enterTapped": true,
             "enterSpun": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
+            "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
           "Set Zone R": {
@@ -447,7 +453,7 @@
             "enterTapped": true,
             "enterSpun": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
+            "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
           "Attack Zone TL": {
